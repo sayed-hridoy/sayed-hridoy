@@ -18,11 +18,18 @@ Hi, I'm **Sayed Hridoy**, <br>a Computer Science student at **GSTU**.
 ![Bash](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=sayed-hridoy&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
+# 📊 GitHub Stats:
 
-![](https://streak-stats.demolab.com/?user=sayed-hridoy&theme=dark&hide_border=true)
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=sayed-hridoy&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+<table>
+  <tr>
+    <td>
+      <img src="https://streak-stats.demolab.com/?user=sayed-hridoy&theme=dark&hide_border=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sayed-hridoy&theme=dark&hide_border=true&layout=compact" />
+    </td>
+  </tr>
+</table>
 
 ---
 
