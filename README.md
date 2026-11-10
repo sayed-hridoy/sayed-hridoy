@@ -18,7 +18,6 @@ Hi, I'm **Sayed Hridoy**, <br>a Computer Science student at **GSTU**.
 ![Bash](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 # 📊 GitHub Stats:
-# 📊 GitHub Stats:
 
 <table>
   <tr>
