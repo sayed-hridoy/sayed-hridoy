@@ -12,20 +12,22 @@ Hi, I'm **Sayed Hridoy**, <br>a Computer Science student at **GSTU**.
 
 <p align="left">
   <!-- Programming Languages -->
-  <img src="https://skillicons.dev/icons?i=c,cpp,py&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,py&theme=dark" alt="C, C++, Python" />
   &nbsp;&nbsp;
 
-  <!-- Data Science -->
-  <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" />
+  <!-- Data Science & Machine Learning -->
+  <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" alt="Scikit-learn" />
   &nbsp;&nbsp;
 
-  <!-- Database and Shell -->
-  <img src="https://skillicons.dev/icons?i=mysql,bash&theme=dark" />
+  <!-- Database & Shell -->
+  <img src="https://skillicons.dev/icons?i=mysql,bash&theme=dark" alt="MySQL, Bash" />
 </p>
+
 <p align="left">
-  <img src="https://cdn.simpleicons.org/numpy/013243" width="48" height="48" alt="NumPy" />&nbsp;&nbsp;
- <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="48" height="48" alt="pandas logo" />
-  <img src="https://cdn.simpleicons.org/matplotlib/11557C" width="48" height="48" alt="Matplotlib" />&nbsp;&nbsp;
+  <!-- Data Science Libraries & Automation -->
+  <img src="https://cdn.simpleicons.org/numpy/4DABCF" width="48" height="48" alt="NumPy" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/pandas/E2A9F1" width="48" height="48" alt="Pandas" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/matplotlib/FFFFFF" width="48" height="48" alt="Matplotlib" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="48" height="48" alt="n8n" />
 </p>
 
