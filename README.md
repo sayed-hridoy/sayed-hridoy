@@ -23,7 +23,10 @@ Hi, I'm **Sayed Hridoy**, <br>a Computer Science student at **GSTU**.
   <img src="https://skillicons.dev/icons?i=mysql,bash&theme=dark" />
 </p>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,n8n&theme=dark" />
+  <img src="https://cdn.simpleicons.org/numpy/013243" width="48" height="48" alt="NumPy" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/pandas/150458" width="48" height="48" alt="Pandas" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/matplotlib/11557C" width="48" height="48" alt="Matplotlib" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="48" height="48" alt="n8n" />
 </p>
 
 
