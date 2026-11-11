@@ -30,8 +30,4 @@ Hi, I'm **Sayed Hridoy**, <br>a Computer Science student at **GSTU**.
   </tr>
 </table>
 
----
 
-![](https://komarev.com/ghpvc/?username=sayed-hridoy&icon=0&color=0)
-
-<!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
