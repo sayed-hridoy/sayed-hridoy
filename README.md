@@ -27,7 +27,7 @@ Hi, I'm **Sayed Hridoy**, <br>a Computer Science student at **GSTU**.
   <!-- Data Science Libraries & Automation -->
   <img src="https://cdn.simpleicons.org/numpy/4DABCF" width="48" height="48" alt="NumPy" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/pandas/E2A9F1" width="48" height="48" alt="Pandas" />&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="48" height="48" alt="Matplotlib" />
+  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
   <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="48" height="48" alt="n8n" />
 </p>
 
