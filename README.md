@@ -7,19 +7,31 @@ Hi, I'm **Sayed Hridoy**, <br>a Computer Science student at **GSTU**.
 
 
 
+
 <h2>💻 Tech Stack</h2>
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/c/00599C" width="42" height="42" alt="C" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/cplusplus/00599C" width="42" height="42" alt="C++" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/python/3776AB" width="42" height="42" alt="Python" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/numpy/013243" width="42" height="42" alt="NumPy" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/pandas/150458" width="42" height="42" alt="Pandas" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="42" height="42" alt="Scikit-learn" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/matplotlib/11557C" width="42" height="42" alt="Matplotlib" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="42" height="42" alt="MySQL" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="42" height="42" alt="n8n" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="42" height="42" alt="Bash" />
+  <!-- Programming Languages -->
+  <img src="https://skillicons.dev/icons?i=c,cpp,py&theme=dark" />
+  &nbsp;&nbsp;
+
+  <!-- Data Science -->
+  <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" />
+  &nbsp;&nbsp;
+
+  <!-- Database and Shell -->
+  <img src="https://skillicons.dev/icons?i=mysql,bash&theme=dark" />
+</p>
+
+<p align="left">
+  <!-- Additional original brand logos -->
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
 </p>
 
 
