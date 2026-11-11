@@ -22,16 +22,8 @@ Hi, I'm **Sayed Hridoy**, <br>a Computer Science student at **GSTU**.
   <!-- Database and Shell -->
   <img src="https://skillicons.dev/icons?i=mysql,bash&theme=dark" />
 </p>
-
 <p align="left">
-  <!-- Additional original brand logos -->
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,n8n&theme=dark" />
 </p>
 
 
